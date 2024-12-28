@@ -1,8 +1,27 @@
-{  
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "public/**/*",
+      "use": "@vercel/static"
+    }
+  ],
+  "env": {
+    "NODE_ENV": "production",
+    "NODE_VERSION": "18",
+    "NPM_CONFIG_UNSAFE_PERM": "true"
+  },
   "build": {
+    "env": {
+      "NODE_VERSION": "18"
+    },
     "commands": [
-      "apt-get update",
-      "apt-get install -y build-essential libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev",
-      "npm install"
+      "npm install --no-optional",
+      "npm rebuild canvas"
+    ]
   }
 }
