@@ -12,7 +12,7 @@
 const { Client, Collection } = require(`discord.js`);
 const fs = require('fs');
 const config = require('./config')
-const keep_alive = require('./keep_alive.js')
+const keep_alive = require('../keep_alive.js')
 
 // Client Loader //
 
