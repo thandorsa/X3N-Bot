@@ -1,17 +1,12 @@
-<!--     ████████╗███████╗███████╗████████╗██╗███████╗██╗   ██╗
-         ╚══██╔══╝██╔════╝██╔════╝╚══██╔══╝██║██╔════╝╚██╗ ██╔╝
-            ██║   █████╗  ███████╗   ██║   ██║█████╗   ╚████╔╝
-            ██║   ██╔══╝  ╚════██║   ██║   ██║██╔══╝    ╚██╔╝
-            ██║   ███████╗███████║   ██║   ██║██║        ██║
-            ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝╚═╝        ╚═╝    -->
+<!-- -->
 
-<img align="center" alt="Nub Bot banner" src="https://i.postimg.cc/v87R8PSx/test.png">
+<img align="center" alt="Nub Bot banner" src="https://cdn.discordapp.com/banners/668503431576813618/822b90712dcd3f2ae0a4fb674995a073.webp?size=4096">
 
 <p align="center">
-<img align="center" alt="GitHub issues" src="https://img.shields.io/github/issues/Kkkermit/Testify?style=for-the-badge"> 
-<img align="center" alt="GitHub license" src="https://img.shields.io/github/license/Kkkermit/Testify?style=for-the-badge">
-<img align="center" alt="GitHub license" src="https://img.shields.io/github/stars/Kkkermit/Testify?style=for-the-badge">
-<img align="center" alt="GitHub license" src="https://img.shields.io/github/forks/Kkkermit/Testify?style=for-the-badge">
+<img align="center" alt="GitHub issues" src="https://img.shields.io/github/issues/thandorsa/X3N-Bot?style=for-the-badge"> 
+<img align="center" alt="GitHub license" src="https://img.shields.io/github/license/thandorsa/X3N-Bot?style=for-the-badge">
+<img align="center" alt="GitHub license" src="https://img.shields.io/github/stars/thandorsa/X3N-Bot?style=for-the-badge">
+<img align="center" alt="GitHub license" src="https://img.shields.io/github/forks/thandorsa/X3N-Bot?style=for-the-badge">
 </p>
 
 <p align="center"><strong>
@@ -19,10 +14,9 @@ Advanced all-in-one discord bot with prefix & slash commands
 </strong></p>
 
 <p align="center">
-With over 100 slash command and over 50 prefix commands, Testify is an open source discord bot that's easy to set up and use and full of fun features to use for your servers!
+With over 100 slash command and over 50 prefix commands, x3n is an open source discord bot that's easy to set up and use and full of fun features to use for your servers!
 </p>
 
-> To test out Testify, be sure to invite him to your server by clicking [here](https://discord.com/oauth2/authorize?client_id=1211784897627168778&permissions=8&scope=applications.commands%20bot)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -44,7 +38,7 @@ With over 100 slash command and over 50 prefix commands, Testify is an open sour
 
     1. Fork the Github project :
        1. Sign up / Sign in to [GitHub](https://github.com/).
-       2. Navigate to [Testify](https://github.com/Kkkermit/Testify).
+       2. Navigate to [x3n](https://github.com/thandorsa/X3N-Bot).
        3. Click `Star` to support development.
        4. Click `Fork` to copy all code to your own repository.
    
@@ -130,7 +124,7 @@ With over 100 slash command and over 50 prefix commands, Testify is an open sour
 
 ## Setting-up-audit-logs
 
-To set the advanced logs registry for the Testify audit-logs ( the event handler registers ) than follow this!
+To set the advanced logs registry for the x3n audit-logs ( the event handler registers ) than follow this!
 
    1. Navigate to `node_modules` **=>** `discord-logs` **=>** `lib` **=>** `index.js` 
    2. Once in the `index.js` file for the discord logs package you'll want to **copy and paste** this code in below.
@@ -263,9 +257,8 @@ To set the advanced logs registry for the Testify audit-logs ( the event handler
    5. That should be it, now when you start up the bot, it should look all cool 😎
 
 ## Support
-Connect with us on [Discord](https://discord.gg/nuMfnnxbF4) for support / any related inquiry.
+Connect with us on [Discord](https://discord.gg/d-f-d) for support / any related inquiry.
 
-## License
-Released under the terms of [MIT License](https://github.com/Kkkermit/Testify/blob/main/LICENSE) license.
 
-**Thanks to [TheLegendDev](https://github.com/TheLegenDev) for the readme template from [Nub Bot](https://github.com/TheLegenDev/Nub-Bot)** 💛
+
+
